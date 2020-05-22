@@ -1,0 +1,59 @@
+{
+  "RETURN_DATA": {
+    "CardInfo": {
+      "Updated": ["03/17/2017 18:19:01"],
+      "CardNumber": ["81029150000890"],
+      "BlackCardFlag": ["N"],
+      "Member": [
+        {
+          "MemberNum": ["1-14572199"],
+          "HRTMemberId": ["6509981458882467410"],
+          "HRTTierName": ["V1"],
+          "AcceptPhone": ["N"],
+          "MemberId": ["1-8OBZB"],
+          "Birthday": ["10/04/1978"],
+          "RegChannel": ["华润通入会"],
+          "MobilePhone": ["15873131360"],
+          "HRTInnerCardNum": ["90100095741285"],
+          "Point": ["32180"],
+          "LifetimePts": ["32240"],
+          "IDNum": ["433025197810040656"],
+          "AcceptSMS": ["N"],
+          "EnrollmentSource": ["华润通"],
+          "AcceptEmail": ["N"],
+          "MemberClass": ["普通会员"],
+          "Name": ["PANCS"],
+          "Status": ["正常"],
+          "AcceptMail": ["N"],
+          "Tier": ["积分卡"],
+          "Gender": ["男"],
+          "IDType": ["身份证"],
+          "CRMIXCPictureURL": [
+            "http://10.72.1.113:6802/api.action?acmod=short-url&t=BRfiIf"
+          ],
+          "QualPts": ["15840"],
+          "RegSubChannel": ["其他入会"]
+        }
+      ],
+      "Description": ["服务台入会绑卡"],
+      "UpdatedByName": ["PANCS"],
+      "ActivatedTime": ["03/17/2017 18:18:42"],
+      "Channel": ["华润通入会"],
+      "Organization": ["深圳万象城"],
+      "TierId": ["1-2YNA"],
+      "CardStatusCode": ["正常"],
+      "ActivatedbyName": ["PANCS"],
+      "ExpirationDate": ["03/08/2018 23:59:59"],
+      "CardRowId": ["1-4K94M"],
+      "CardSource": ["置地商业"],
+      "ChangeReason": ["服务台入会绑卡"],
+      "SubChannel": ["其他入会"],
+      "KeyAccountFlag": ["N"],
+      "CardType": ["普通卡"],
+      "TierName": ["积分卡"]
+    }
+  },
+  "RETURN_STAMP": "",
+  "RETURN_CODE": "100 ",
+  "RETURN_DESC": ""
+}

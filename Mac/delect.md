@@ -1,0 +1,21 @@
+- chrome浏览记录
+- - 百度云记录
+- - 坚果云文件
+- - onenote的插件删除
+- 坚果云
+- baiduyun
+- onenote
+- 网易云
+- 所有的word，excel，ppt，pdf。。。
+- idm下载文件
+- mac中的钥匙串
+- teamviewer
+- bupt vpn account
+- qqmail
+- 网页百度云帐号
+- teamviewer的帐号
+- appstore帐号
+- sequel的本地数据库
+- csdn
+- bilibili
+- 本地数据库
