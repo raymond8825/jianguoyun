@@ -1,0 +1,5 @@
+- karabiner-elements及其配置文件
+- alfred及其配置文件
+- bartender
+- 
+ 
