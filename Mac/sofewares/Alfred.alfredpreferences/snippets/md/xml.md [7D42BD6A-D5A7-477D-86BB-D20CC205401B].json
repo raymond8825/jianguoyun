@@ -1,6 +1,6 @@
 {
   "alfredsnippet" : {
-    "snippet" : "```xml\n\n```",
+    "snippet" : "```xml\n{cursor}\n```",
     "dontautoexpand" : true,
     "uid" : "7D42BD6A-D5A7-477D-86BB-D20CC205401B",
     "name" : "xml.md",

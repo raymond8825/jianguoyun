@@ -1,6 +1,6 @@
 {
   "alfredsnippet" : {
-    "snippet" : "```java\n\n```",
+    "snippet" : "```java\n{cursor}\n```",
     "dontautoexpand" : true,
     "uid" : "1860C7F0-63E6-4172-A34D-CD92E100D23E",
     "name" : "java.md",
