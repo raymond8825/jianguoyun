@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "```sql\n{cursor}\n```",
+    "dontautoexpand" : true,
+    "uid" : "A0228AE4-2A33-4DB4-B911-15C256377E12",
+    "name" : "sql.md",
+    "keyword" : ""
+  }
+}
