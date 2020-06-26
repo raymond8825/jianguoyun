@@ -32,7 +32,7 @@ SQL语句主要分为：
 ## 2.2 DDL数据定义语言
 操作对象：数据库和表
 
-关键字：create drop alter
+关键字：`create`, `drop`, `alter`
 ### 2.2.1 DDL操作数据库
 - 创建：`create database 数据库名称;`
 - 删除：`drop database 数据库名称;`
@@ -233,7 +233,7 @@ insert into ordergoods values(3,1314,4);
 
 数据写入完成后，如果一不小心将用户表中的李四删除，就会发现订单表中的李四的订单就找不到主人了，就变成了垃圾数据，所以我们需要解决这个问题
 
-解决：为了保证数据的有效性和完整性，添加约束（外键约束），在多表的一方，添加外键约束`alter table 多表名称 add foreign key(外键名称) references 一表名称(主键);`，对于本例来说`alter table ordergoods add foreign key(user_id) references user(id);`
+解决：为了保证数据的有效性和完整性，添加约束（外键约束），在多表的一方，添加外键约束`alter table 多表名称 add foreign key(外键名称) references 一表名称(主键);`，对于本例来说`alter table ordergoods add foreign key(user_id) references user(id);`(这样可以是因为表ordergoods建表的时候已经有了user_id字段,如果没有该字段,此种增加外键的方式会提示缺少该字段)
 
 添加了外键约束后有以下特点★：
 1. 主表中不能删除从表中已经引用的数据
