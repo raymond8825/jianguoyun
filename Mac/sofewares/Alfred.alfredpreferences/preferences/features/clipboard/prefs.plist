@@ -13,59 +13,64 @@
 	<key>autoExpandSnippetsExcludedApps</key>
 	<array>
 		<string>com.runningwithcrayons.Alfred</string>
-		<string>com.runningwithcrayons.Alfred-Preferences</string>
-		<string>com.apple.appstore</string>
+		<string>com.nektony.App-Cleaner-Pro</string>
+		<string>com.apple.AppStore</string>
 		<string>com.apple.Automator</string>
+		<string>com.baidu.BaiduNetdisk-mac</string>
 		<string>com.surteesstudios.Bartender</string>
 		<string>com.hegenberg.BetterTouchTool</string>
+		<string>com.ripperhe.Bob</string>
+		<string>com.apple.iBooksX</string>
 		<string>TTKN.CAJViewerMac</string>
 		<string>com.apple.calculator</string>
 		<string>com.apple.iCal</string>
 		<string>com.mediaatelier.CheatSheet</string>
 		<string>com.apple.Chess</string>
+		<string>com.ABabe.chmviewerfree</string>
 		<string>com.apple.AddressBook</string>
 		<string>com.kapeli.dash</string>
 		<string>com.apple.dashboardlauncher</string>
 		<string>com.jetbrains.datagrip</string>
 		<string>com.apple.Dictionary</string>
 		<string>com.alibaba.DingTalkMac</string>
-		<string>com.apple.DVDPlayer</string>
 		<string>com.apple.FaceTime</string>
 		<string>com.devhd.feedly.osx</string>
 		<string>org.mozilla.firefox</string>
 		<string>com.apple.FontBook</string>
 		<string>com.DanPristupov.Fork</string>
-		<string>com.paloaltonetworks.GlobalProtect</string>
 		<string>com.goagentx.GoAgentX</string>
 		<string>com.google.Chrome</string>
 		<string>com.smartisan.smartfindercommon</string>
-		<string>com.apple.iBooksX</string>
+		<string>com.apple.Home</string>
 		<string>com.colliderli.iina</string>
 		<string>com.apple.Image_Capture</string>
-		<string>com.apple.InstallAssistant.HighSierra</string>
-		<string>com.apple.InstallAssistant.Mojave</string>
-		<string>com.jetbrains.intellij.ce</string>
 		<string>cn.better365.ishot</string>
+		<string>imagetasks.iStatisticaSensors</string>
+		<string>imagetasks.iStatistica</string>
 		<string>com.googlecode.iterm2</string>
 		<string>com.apple.iTunes</string>
-		<string>com.thebravesoft.iZipUnarchiver</string>
 		<string>com.jetbrains.toolbox</string>
 		<string>org.pqrs.Karabiner-Elements.Preferences</string>
 		<string>org.pqrs.Karabiner-EventViewer</string>
+		<string>com.stairways.keyboardmaestro.editor</string>
 		<string>com.apple.iWork.Keynote</string>
 		<string>com.apple.launchpad.launcher</string>
 		<string>AcdSystem.LightEQ</string>
 		<string>com.apple.mail</string>
 		<string>com.apple.Maps</string>
 		<string>MarkManOne</string>
+		<string>org.gnome.meld</string>
 		<string>com.apple.iChat</string>
+		<string>com.microsoft.edgemac</string>
 		<string>com.microsoft.Excel</string>
 		<string>com.microsoft.onenote.mac</string>
 		<string>com.microsoft.Powerpoint</string>
 		<string>com.microsoft.Word</string>
+		<string>com.mindjet.mindmanager.12</string>
 		<string>com.ideasoncanvas.mindnode.macos</string>
 		<string>com.apple.exposelauncher</string>
 		<string>com.cu4uc.mounty</string>
+		<string>com.prect.NavicatPremium15</string>
 		<string>com.NeatDownloadManager</string>
 		<string>com.netease.163music</string>
 		<string>com.apple.Notes</string>
@@ -75,7 +80,6 @@
 		<string>com.readdle.PDFExpert-Mac</string>
 		<string>com.apple.PhotoBooth</string>
 		<string>com.apple.Photos</string>
-		<string>org.playonmac.playonmac</string>
 		<string>com.postmanlabs.mac</string>
 		<string>com.apple.Preview</string>
 		<string>com.tencent.qq</string>
@@ -86,26 +90,32 @@
 		<string>com.vandyke.SecureCRT</string>
 		<string>com.sequelpro.SequelPro</string>
 		<string>com.apple.siri.launcher</string>
+		<string>com.rogueamoeba.soundsource</string>
+		<string>org.hejki.osx.sshce</string>
 		<string>com.apple.Stickies</string>
+		<string>com.apple.stocks</string>
 		<string>com.sublimetext.3</string>
+		<string>com.oray.sunlogin.macclient</string>
 		<string>com.apple.systempreferences</string>
 		<string>com.teamviewer.TeamViewer</string>
+		<string>com.tencent.meeting</string>
 		<string>com.apple.TextEdit</string>
 		<string>cx.c3.theunarchiver</string>
 		<string>com.apple.backup.launcher</string>
 		<string>abnerworks.Typora</string>
-		<string>com.lightapps.unrar</string>
 		<string>net.yanue.V2rayU</string>
+		<string>org.virtualbox.app.VirtualBox</string>
 		<string>com.microsoft.VSCode</string>
 		<string>org.videolan.vlc</string>
+		<string>com.apple.VoiceMemos</string>
 		<string>com.jetbrains.WebStorm</string>
 		<string>com.tencent.xinWeChat</string>
 		<string>org.wireshark.Wireshark</string>
 		<string>com.apple.dt.Xcode</string>
 		<string>com.youdao.note.YoudaoNoteMac</string>
+		<string>com.zerotier.ZeroTier-One</string>
 		<string>com.baofeng.player</string>
-		<string>com.baidu.BaiduNetdisk-mac</string>
-		<string>com.wenyu.kwplayermac</string>
+		<string>com.iflytek.macinput</string>
 	</array>
 	<key>hotkey</key>
 	<dict>
